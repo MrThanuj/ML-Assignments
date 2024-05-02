@@ -1,0 +1,401 @@
+  1 loss:2.33, accuracy:0.07
+  1. 2 loss:2.32, accuracy:0.11
+  1. 3 loss:2.28, accuracy:0.13
+  1. 4 loss:2.3, accuracy:0.1
+  1. 5 loss:2.28, accuracy:0.11
+  1. 6 loss:2.28, accuracy:0.1
+  1. 7 loss:2.27, accuracy:0.18
+  1. 8 loss:2.25, accuracy:0.13
+  1. 9 loss:2.27, accuracy:0.08
+  1.10 loss:2.22, accuracy:0.32
+  1.11 loss:2.2, accuracy:0.24
+  1.12 loss:2.15, accuracy:0.25
+  1.13 loss:2.13, accuracy:0.28
+  1.14 loss:2.11, accuracy:0.28
+  1.15 loss:2.0, accuracy:0.31
+  1.16 loss:1.94, accuracy:0.35
+  1.17 loss:1.88, accuracy:0.46
+  1.18 loss:1.83, accuracy:0.51
+  1.19 loss:1.79, accuracy:0.46
+  1.20 loss:1.57, accuracy:0.65
+  1.21 loss:1.48, accuracy:0.61
+  1.22 loss:1.41, accuracy:0.61
+  1.23 loss:1.29, accuracy:0.62
+  1.24 loss:1.12, accuracy:0.76
+  1.25 loss:1.07, accuracy:0.78
+  1.26 loss:0.982, accuracy:0.81
+  1.27 loss:1.1, accuracy:0.67
+  1.28 loss:0.935, accuracy:0.77
+  1.29 loss:0.804, accuracy:0.78
+  1.30 loss:0.859, accuracy:0.73
+  1.31 loss:0.802, accuracy:0.74
+  1.32 loss:0.775, accuracy:0.71
+  1.33 loss:0.606, accuracy:0.77
+  1.34 loss:0.749, accuracy:0.77
+  1.35 loss:0.876, accuracy:0.73
+  1.36 loss:0.706, accuracy:0.81
+  1.37 loss:0.625, accuracy:0.83
+  1.38 loss:0.555, accuracy:0.83
+  1.39 loss:0.676, accuracy:0.81
+  1.40 loss:0.69, accuracy:0.83
+  2. 1 loss:0.641, accuracy:0.76
+  2. 2 loss:0.568, accuracy:0.84
+  2. 3 loss:0.514, accuracy:0.87
+  2. 4 loss:0.735, accuracy:0.79
+  2. 5 loss:0.64, accuracy:0.75
+  2. 6 loss:0.428, accuracy:0.84
+  2. 7 loss:0.593, accuracy:0.8
+  2. 8 loss:0.457, accuracy:0.84
+  2. 9 loss:0.481, accuracy:0.86
+  2.10 loss:0.626, accuracy:0.81
+  2.11 loss:0.58, accuracy:0.81
+  2.12 loss:0.895, accuracy:0.81
+  2.13 loss:0.657, accuracy:0.73
+  2.14 loss:0.694, accuracy:0.8
+  2.15 loss:0.254, accuracy:0.93
+  2.16 loss:0.569, accuracy:0.83
+  2.17 loss:0.68, accuracy:0.75
+  2.18 loss:0.665, accuracy:0.84
+  2.19 loss:0.503, accuracy:0.84
+  2.20 loss:0.364, accuracy:0.89
+  2.21 loss:0.462, accuracy:0.85
+  2.22 loss:0.656, accuracy:0.88
+  2.23 loss:0.513, accuracy:0.83
+  2.24 loss:0.467, accuracy:0.87
+  2.25 loss:0.342, accuracy:0.93
+  2.26 loss:0.413, accuracy:0.91
+  2.27 loss:0.734, accuracy:0.79
+  2.28 loss:0.494, accuracy:0.87
+  2.29 loss:0.397, accuracy:0.88
+  2.30 loss:0.421, accuracy:0.88
+  2.31 loss:0.524, accuracy:0.85
+  2.32 loss:0.429, accuracy:0.84
+  2.33 loss:0.498, accuracy:0.84
+  2.34 loss:0.46, accuracy:0.88
+  2.35 loss:0.604, accuracy:0.83
+  2.36 loss:0.415, accuracy:0.87
+  2.37 loss:0.356, accuracy:0.88
+  2.38 loss:0.385, accuracy:0.92
+  2.39 loss:0.336, accuracy:0.9
+  2.40 loss:0.443, accuracy:0.9
+  3. 1 loss:0.345, accuracy:0.92
+  3. 2 loss:0.486, accuracy:0.89
+  3. 3 loss:0.282, accuracy:0.94
+  3. 4 loss:0.439, accuracy:0.89
+  3. 5 loss:0.364, accuracy:0.9
+  3. 6 loss:0.211, accuracy:0.92
+  3. 7 loss:0.447, accuracy:0.86
+  3. 8 loss:0.271, accuracy:0.94
+  3. 9 loss:0.223, accuracy:0.92
+  3.10 loss:0.347, accuracy:0.92
+  3.11 loss:0.328, accuracy:0.88
+  3.12 loss:0.516, accuracy:0.87
+  3.13 loss:0.504, accuracy:0.8
+  3.14 loss:0.46, accuracy:0.87
+  3.15 loss:0.184, accuracy:0.94
+  3.16 loss:0.24, accuracy:0.94
+  3.17 loss:0.325, accuracy:0.89
+  3.18 loss:0.497, accuracy:0.88
+  3.19 loss:0.475, accuracy:0.82
+  3.20 loss:0.3, accuracy:0.92
+  3.21 loss:0.257, accuracy:0.93
+  3.22 loss:0.332, accuracy:0.92
+  3.23 loss:0.303, accuracy:0.91
+  3.24 loss:0.278, accuracy:0.9
+  3.25 loss:0.227, accuracy:0.96
+  3.26 loss:0.268, accuracy:0.93
+  3.27 loss:0.44, accuracy:0.86
+  3.28 loss:0.337, accuracy:0.92
+  3.29 loss:0.262, accuracy:0.92
+  3.30 loss:0.229, accuracy:0.95
+  3.31 loss:0.344, accuracy:0.92
+  3.32 loss:0.247, accuracy:0.93
+  3.33 loss:0.294, accuracy:0.91
+  3.34 loss:0.295, accuracy:0.91
+  3.35 loss:0.453, accuracy:0.85
+  3.36 loss:0.311, accuracy:0.91
+  3.37 loss:0.249, accuracy:0.93
+  3.38 loss:0.232, accuracy:0.96
+  3.39 loss:0.298, accuracy:0.91
+  3.40 loss:0.431, accuracy:0.89
+  4. 1 loss:0.228, accuracy:0.94
+  4. 2 loss:0.347, accuracy:0.9
+  4. 3 loss:0.202, accuracy:0.96
+  4. 4 loss:0.338, accuracy:0.89
+  4. 5 loss:0.301, accuracy:0.93
+  4. 6 loss:0.135, accuracy:0.99
+  4. 7 loss:0.408, accuracy:0.86
+  4. 8 loss:0.215, accuracy:0.93
+  4. 9 loss:0.197, accuracy:0.96
+  4.10 loss:0.328, accuracy:0.89
+  4.11 loss:0.281, accuracy:0.88
+  4.12 loss:0.389, accuracy:0.92
+  4.13 loss:0.387, accuracy:0.88
+  4.14 loss:0.386, accuracy:0.89
+  4.15 loss:0.173, accuracy:0.93
+  4.16 loss:0.213, accuracy:0.94
+  4.17 loss:0.217, accuracy:0.93
+  4.18 loss:0.401, accuracy:0.91
+  4.19 loss:0.429, accuracy:0.84
+  4.20 loss:0.281, accuracy:0.94
+  4.21 loss:0.237, accuracy:0.94
+  4.22 loss:0.264, accuracy:0.92
+  4.23 loss:0.276, accuracy:0.93
+  4.24 loss:0.205, accuracy:0.93
+  4.25 loss:0.163, accuracy:0.95
+  4.26 loss:0.205, accuracy:0.93
+  4.27 loss:0.347, accuracy:0.92
+  4.28 loss:0.298, accuracy:0.92
+  4.29 loss:0.26, accuracy:0.95
+  4.30 loss:0.194, accuracy:0.96
+  4.31 loss:0.271, accuracy:0.91
+  4.32 loss:0.194, accuracy:0.93
+  4.33 loss:0.263, accuracy:0.93
+  4.34 loss:0.236, accuracy:0.9
+  4.35 loss:0.347, accuracy:0.92
+  4.36 loss:0.295, accuracy:0.9
+  4.37 loss:0.216, accuracy:0.95
+  4.38 loss:0.22, accuracy:0.95
+  4.39 loss:0.252, accuracy:0.95
+  4.40 loss:0.353, accuracy:0.9
+  5. 1 loss:0.156, accuracy:0.96
+  5. 2 loss:0.277, accuracy:0.93
+  5. 3 loss:0.171, accuracy:0.95
+  5. 4 loss:0.262, accuracy:0.93
+  5. 5 loss:0.297, accuracy:0.93
+  5. 6 loss:0.126, accuracy:0.98
+  5. 7 loss:0.325, accuracy:0.9
+  5. 8 loss:0.146, accuracy:0.97
+  5. 9 loss:0.173, accuracy:0.95
+  5.10 loss:0.295, accuracy:0.89
+  5.11 loss:0.279, accuracy:0.89
+  5.12 loss:0.325, accuracy:0.93
+  5.13 loss:0.309, accuracy:0.9
+  5.14 loss:0.32, accuracy:0.91
+  5.15 loss:0.128, accuracy:0.96
+  5.16 loss:0.194, accuracy:0.96
+  5.17 loss:0.188, accuracy:0.94
+  5.18 loss:0.329, accuracy:0.92
+  5.19 loss:0.341, accuracy:0.89
+  5.20 loss:0.223, accuracy:0.94
+  5.21 loss:0.215, accuracy:0.95
+  5.22 loss:0.228, accuracy:0.93
+  5.23 loss:0.256, accuracy:0.94
+  5.24 loss:0.193, accuracy:0.93
+  5.25 loss:0.14, accuracy:0.97
+  5.26 loss:0.15, accuracy:0.97
+  5.27 loss:0.318, accuracy:0.91
+  5.28 loss:0.225, accuracy:0.95
+  5.29 loss:0.223, accuracy:0.95
+  5.30 loss:0.142, accuracy:0.97
+  5.31 loss:0.209, accuracy:0.93
+  5.32 loss:0.164, accuracy:0.95
+  5.33 loss:0.251, accuracy:0.95
+  5.34 loss:0.207, accuracy:0.95
+  5.35 loss:0.285, accuracy:0.92
+  5.36 loss:0.235, accuracy:0.93
+  5.37 loss:0.183, accuracy:0.96
+  5.38 loss:0.207, accuracy:0.94
+  5.39 loss:0.234, accuracy:0.94
+  5.40 loss:0.294, accuracy:0.91
+  6. 1 loss:0.124, accuracy:0.97
+  6. 2 loss:0.242, accuracy:0.92
+  6. 3 loss:0.139, accuracy:0.97
+  6. 4 loss:0.188, accuracy:0.95
+  6. 5 loss:0.282, accuracy:0.92
+  6. 6 loss:0.126, accuracy:0.98
+  6. 7 loss:0.28, accuracy:0.91
+  6. 8 loss:0.104, accuracy:0.97
+  6. 9 loss:0.138, accuracy:0.94
+  6.10 loss:0.219, accuracy:0.94
+  6.11 loss:0.218, accuracy:0.89
+  6.12 loss:0.264, accuracy:0.95
+  6.13 loss:0.241, accuracy:0.9
+  6.14 loss:0.279, accuracy:0.93
+  6.15 loss:0.0799, accuracy:0.99
+  6.16 loss:0.153, accuracy:0.98
+  6.17 loss:0.139, accuracy:0.94
+  6.18 loss:0.29, accuracy:0.94
+  6.19 loss:0.302, accuracy:0.89
+  6.20 loss:0.194, accuracy:0.95
+  6.21 loss:0.194, accuracy:0.94
+  6.22 loss:0.194, accuracy:0.93
+  6.23 loss:0.223, accuracy:0.95
+  6.24 loss:0.154, accuracy:0.95
+  6.25 loss:0.117, accuracy:0.98
+  6.26 loss:0.122, accuracy:0.98
+  6.27 loss:0.311, accuracy:0.91
+  6.28 loss:0.197, accuracy:0.96
+  6.29 loss:0.189, accuracy:0.96
+  6.30 loss:0.11, accuracy:0.97
+  6.31 loss:0.178, accuracy:0.94
+  6.32 loss:0.126, accuracy:0.99
+  6.33 loss:0.204, accuracy:0.95
+  6.34 loss:0.184, accuracy:0.95
+  6.35 loss:0.246, accuracy:0.93
+  6.36 loss:0.203, accuracy:0.93
+  6.37 loss:0.157, accuracy:0.96
+  6.38 loss:0.19, accuracy:0.96
+  6.39 loss:0.209, accuracy:0.94
+  6.40 loss:0.244, accuracy:0.93
+  7. 1 loss:0.0942, accuracy:0.97
+  7. 2 loss:0.185, accuracy:0.95
+  7. 3 loss:0.115, accuracy:0.97
+  7. 4 loss:0.151, accuracy:0.97
+  7. 5 loss:0.244, accuracy:0.94
+  7. 6 loss:0.118, accuracy:0.98
+  7. 7 loss:0.259, accuracy:0.91
+  7. 8 loss:0.0901, accuracy:0.98
+  7. 9 loss:0.11, accuracy:0.96
+  7.10 loss:0.173, accuracy:0.94
+  7.11 loss:0.185, accuracy:0.91
+  7.12 loss:0.218, accuracy:0.94
+  7.13 loss:0.203, accuracy:0.91
+  7.14 loss:0.243, accuracy:0.94
+  7.15 loss:0.0716, accuracy:0.98
+  7.16 loss:0.131, accuracy:0.97
+  7.17 loss:0.119, accuracy:0.95
+  7.18 loss:0.267, accuracy:0.93
+  7.19 loss:0.252, accuracy:0.91
+  7.20 loss:0.161, accuracy:0.94
+  7.21 loss:0.162, accuracy:0.97
+  7.22 loss:0.155, accuracy:0.93
+  7.23 loss:0.184, accuracy:0.96
+  7.24 loss:0.128, accuracy:0.96
+  7.25 loss:0.106, accuracy:0.97
+  7.26 loss:0.101, accuracy:0.98
+  7.27 loss:0.281, accuracy:0.93
+  7.28 loss:0.178, accuracy:0.96
+  7.29 loss:0.18, accuracy:0.96
+  7.30 loss:0.101, accuracy:0.99
+  7.31 loss:0.178, accuracy:0.95
+  7.32 loss:0.0962, accuracy:0.99
+  7.33 loss:0.169, accuracy:0.95
+  7.34 loss:0.155, accuracy:0.97
+  7.35 loss:0.207, accuracy:0.95
+  7.36 loss:0.171, accuracy:0.95
+  7.37 loss:0.151, accuracy:0.95
+  7.38 loss:0.157, accuracy:0.96
+  7.39 loss:0.195, accuracy:0.95
+  7.40 loss:0.213, accuracy:0.93
+  8. 1 loss:0.0765, accuracy:0.99
+  8. 2 loss:0.149, accuracy:0.96
+  8. 3 loss:0.0921, accuracy:0.96
+  8. 4 loss:0.133, accuracy:0.96
+  8. 5 loss:0.204, accuracy:0.95
+  8. 6 loss:0.095, accuracy:0.98
+  8. 7 loss:0.233, accuracy:0.91
+  8. 8 loss:0.084, accuracy:0.98
+  8. 9 loss:0.0992, accuracy:0.97
+  8.10 loss:0.165, accuracy:0.94
+  8.11 loss:0.169, accuracy:0.91
+  8.12 loss:0.188, accuracy:0.96
+  8.13 loss:0.164, accuracy:0.95
+  8.14 loss:0.197, accuracy:0.95
+  8.15 loss:0.0604, accuracy:0.98
+  8.16 loss:0.116, accuracy:0.97
+  8.17 loss:0.104, accuracy:0.97
+  8.18 loss:0.24, accuracy:0.94
+  8.19 loss:0.224, accuracy:0.93
+  8.20 loss:0.139, accuracy:0.94
+  8.21 loss:0.14, accuracy:0.96
+  8.22 loss:0.125, accuracy:0.95
+  8.23 loss:0.148, accuracy:0.95
+  8.24 loss:0.109, accuracy:0.97
+  8.25 loss:0.101, accuracy:0.97
+  8.26 loss:0.0903, accuracy:0.98
+  8.27 loss:0.231, accuracy:0.93
+  8.28 loss:0.163, accuracy:0.97
+  8.29 loss:0.167, accuracy:0.97
+  8.30 loss:0.0856, accuracy:0.99
+  8.31 loss:0.162, accuracy:0.95
+  8.32 loss:0.0774, accuracy:0.99
+  8.33 loss:0.159, accuracy:0.97
+  8.34 loss:0.145, accuracy:0.95
+  8.35 loss:0.195, accuracy:0.96
+  8.36 loss:0.15, accuracy:0.95
+  8.37 loss:0.132, accuracy:0.96
+  8.38 loss:0.134, accuracy:0.97
+  8.39 loss:0.175, accuracy:0.96
+  8.40 loss:0.191, accuracy:0.94
+  9. 1 loss:0.0773, accuracy:0.99
+  9. 2 loss:0.141, accuracy:0.96
+  9. 3 loss:0.087, accuracy:0.96
+  9. 4 loss:0.108, accuracy:0.98
+  9. 5 loss:0.167, accuracy:0.95
+  9. 6 loss:0.0809, accuracy:1.0
+  9. 7 loss:0.213, accuracy:0.91
+  9. 8 loss:0.079, accuracy:0.99
+  9. 9 loss:0.0968, accuracy:0.97
+  9.10 loss:0.15, accuracy:0.95
+  9.11 loss:0.135, accuracy:0.92
+  9.12 loss:0.169, accuracy:0.97
+  9.13 loss:0.149, accuracy:0.95
+  9.14 loss:0.183, accuracy:0.96
+  9.15 loss:0.0592, accuracy:0.98
+  9.16 loss:0.107, accuracy:0.97
+  9.17 loss:0.0887, accuracy:0.98
+  9.18 loss:0.208, accuracy:0.95
+  9.19 loss:0.206, accuracy:0.95
+  9.20 loss:0.118, accuracy:0.96
+  9.21 loss:0.127, accuracy:0.96
+  9.22 loss:0.102, accuracy:0.97
+  9.23 loss:0.125, accuracy:0.96
+  9.24 loss:0.0989, accuracy:0.97
+  9.25 loss:0.0862, accuracy:0.98
+  9.26 loss:0.0797, accuracy:0.99
+  9.27 loss:0.195, accuracy:0.94
+  9.28 loss:0.145, accuracy:0.97
+  9.29 loss:0.151, accuracy:0.97
+  9.30 loss:0.0674, accuracy:0.99
+  9.31 loss:0.144, accuracy:0.96
+  9.32 loss:0.0638, accuracy:1.0
+  9.33 loss:0.15, accuracy:0.97
+  9.34 loss:0.124, accuracy:0.96
+  9.35 loss:0.189, accuracy:0.96
+  9.36 loss:0.132, accuracy:0.96
+  9.37 loss:0.113, accuracy:0.97
+  9.38 loss:0.115, accuracy:0.97
+  9.39 loss:0.154, accuracy:0.97
+  9.40 loss:0.162, accuracy:0.96
+ 10. 1 loss:0.0673, accuracy:0.99
+ 10. 2 loss:0.128, accuracy:0.96
+ 10. 3 loss:0.0767, accuracy:0.98
+ 10. 4 loss:0.093, accuracy:0.99
+ 10. 5 loss:0.145, accuracy:0.95
+ 10. 6 loss:0.0629, accuracy:1.0
+ 10. 7 loss:0.177, accuracy:0.94
+ 10. 8 loss:0.0683, accuracy:0.99
+ 10. 9 loss:0.0905, accuracy:0.97
+ 10.10 loss:0.133, accuracy:0.96
+ 10.11 loss:0.119, accuracy:0.94
+ 10.12 loss:0.165, accuracy:0.96
+ 10.13 loss:0.135, accuracy:0.96
+ 10.14 loss:0.159, accuracy:0.96
+ 10.15 loss:0.0586, accuracy:0.99
+ 10.16 loss:0.107, accuracy:0.97
+ 10.17 loss:0.103, accuracy:0.97
+ 10.18 loss:0.184, accuracy:0.95
+ 10.19 loss:0.175, accuracy:0.95
+ 10.20 loss:0.103, accuracy:0.98
+ 10.21 loss:0.12, accuracy:0.97
+ 10.22 loss:0.0924, accuracy:0.97
+ 10.23 loss:0.108, accuracy:0.98
+ 10.24 loss:0.0983, accuracy:0.98
+ 10.25 loss:0.084, accuracy:0.97
+ 10.26 loss:0.067, accuracy:0.99
+ 10.27 loss:0.169, accuracy:0.95
+ 10.28 loss:0.132, accuracy:0.97
+ 10.29 loss:0.136, accuracy:0.97
+ 10.30 loss:0.0557, accuracy:0.99
+ 10.31 loss:0.134, accuracy:0.96
+ 10.32 loss:0.0581, accuracy:1.0
+ 10.33 loss:0.147, accuracy:0.95
+ 10.34 loss:0.112, accuracy:0.96
+ 10.35 loss:0.179, accuracy:0.96
+ 10.36 loss:0.118, accuracy:0.97
+ 10.37 loss:0.1, accuracy:0.98
+ 10.38 loss:0.102, accuracy:0.97
+ 10.39 loss:0.133, accuracy:0.98
+ 10.40 loss:0.136, accuracy:0.96
+loss:0.258, accuracy:0.922
